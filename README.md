@@ -1,22 +1,22 @@
 # AI-Conference
-The summary outlines the details of AI conferences, including their names, deadlines, categories, and core ranking. All the conferences are sorted according their deadline time.
+The summary outlines the details of AI conferences, including their names, deadlines, categories, core ranking, and CCF ranking. All the conferences are sorted according to their deadline time.
 
 ##### ICME, COLING, ACCV, BMVC, ECAI, WACV, ICASSP， ACM MM， 	SIGGRAPH，	ICMR， 	ACML， ICTAI， 	ICANN， 	ICONIP， IJCNN， 	WWW， MICCAI， ICIP， ICIC
 
 # January
-### IJCAI - A* (Artificial Intelligence)
+### IJCAI - CoreRanking: A* and CCFRanking: A (Artificial Intelligence)
 ##### Paper Submission Deadline - January.
 ##### Rebuttal Period - March.
 ##### Final Decision - April.
 
-### ICML - A* (Machine Learning)
+### ICML - CoreRanking: A* and CCFRanking: A (Machine Learning)
 ##### Paper Submission Deadline - January.
 ##### Rebuttal Period - March.
 ##### Final Decision - April.
 
 
 # February
-### ACL - A* (Natural Language Processing)
+### ACL - CoreRanking: A* and CCFRanking: A (Natural Language Processing)
 ##### Paper Submission Deadline - February 15 (ARR).
 ##### Rebuttal Period - March.
 ##### Final Decision - May.
@@ -24,17 +24,17 @@ The summary outlines the details of AI conferences, including their names, deadl
 
 
 # March
-### ICCV - A* (Computer Vision)
+### ICCV - CoreRanking: A* and CCFRanking: A (Computer Vision)
 ##### Paper Submission Deadline - March.
 ##### Rebuttal Period - May.
 ##### Final Decision - July.
 
-### ECCV - A* (Computer Vision)
+### ECCV - CoreRanking: A and CCFRanking: B (Computer Vision)
 ##### Paper Submission Deadline - March.
 ##### Rebuttal Period - May.
 ##### Final Decision - July.
 
-### COLM - A (Large Language Model)
+### COLM - CoreRanking: ~ and CCFRanking: ~ (Large Language Model)
 ##### Paper Submission Deadline - March.
 ##### Rebuttal Period - May.
 ##### Final Decision - July.
@@ -42,7 +42,7 @@ The summary outlines the details of AI conferences, including their names, deadl
 # April
 
 # May
-### NeurIPS - A* (Artificial Intelligence)
+### NeurIPS - CoreRanking: A* and CCFRanking: A (Artificial Intelligence)
 ##### Paper Submission Deadline - May.
 ##### Rebuttal Period - August.
 ##### Final Decision - September.
