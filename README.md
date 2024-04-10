@@ -3,6 +3,8 @@ The summary outlines the details of AI conferences, including their names, deadl
 
 ## January
 
+
+
 ## February
 
 ## March
@@ -22,6 +24,11 @@ The summary outlines the details of AI conferences, including their names, deadl
 ## October
 
 ## November
+### CVPR - A*(CV) 
+Top conference in Computer Vision area. 
+Paper Registration Deadline - November. 
+Rebuttal Period - January.
+Final Decision - February
 
 ## December
 
