@@ -25,9 +25,9 @@ The summary outlines the details of AI conferences, including their names, deadl
 
 # November
 ### CVPR - A* (Computer Vision)
-#### Paper Registration Deadline - November. 
-#### Rebuttal Period - January.
-#### Final Decision - February
+##### Paper Registration Deadline - November. 
+##### Rebuttal Period - January.
+##### Final Decision - February
 
 ## December
 
