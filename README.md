@@ -48,46 +48,46 @@ The summary outlines the details of AI conferences, including their names, deadl
 ##### Final Decision - September.
 
 # June
-### EMNLP - A* (Natural Language Processing)
+### EMNLP - CoreRanking: A and CCFRanking: B (Natural Language Processing)
 ##### Paper Submission Deadline - June 15 (ARR).
 ##### Rebuttal Period - July.
 ##### Final Decision - September.
 
 # July
-### AACL - A (Natural Language Processing)
+### AACL - CoreRanking: ~ and CCFRanking: ~ (Natural Language Processing)
 ##### Paper Submission Deadline - July 15 (ARR).
 ##### Rebuttal Period - August.
 ##### Final Decision - September.
 
 
 # August
-### AAAI - A* (Artificial Intelligence)
+### AAAI - CoreRanking: A* and CCFRanking: A (Artificial Intelligence)
 ##### Author Registration - July
 ##### Paper Submission Deadline - August.
 ##### Rebuttal Period - October.
 ##### Final Decision - November.
 
 # Septemper
-### ICLR - A* (Artificial Intelligence)
+### ICLR - CoreRanking: ~ and CCFRanking: ~ (Artificial Intelligence)
 ##### Paper Submission Deadline - September.
 ##### Rebuttal Period - November.
 ##### Final Decision - January.
 
 
 # October
-### EACL - A (Natural Language Processing)
+### EACL - CoreRanking: A and CCFRanking: ~ (Natural Language Processing)
 ##### Paper Submission Deadline - October.
 ##### Rebuttal Period - December.
 ##### Final Decision - January.
 
 # November
-### CVPR - A* (Computer Vision)
+### CVPR - CoreRanking: A* and CCFRanking: A (Computer Vision)
 ##### Paper Submission Deadline - November. 
 ##### Rebuttal Period - January.
 ##### Final Decision - February.
 
 # December
-### NAACL - A* (Natural Language Processing)
+### NAACL - CoreRanking: A and CCFRanking: B (Natural Language Processing)
 ##### Paper Submission Deadline - December 15 (ARR).
 ##### Rebuttal Period - January.
 ##### Final Decision - March.
