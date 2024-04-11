@@ -3,7 +3,7 @@ The summary outlines the details of AI conferences, including their names, deadl
 
 ##### ICME, COLING, ACCV, BMVC, ECAI, WACV, ICASSP， ACM MM， 	SIGGRAPH，	ICMR， 	ACML， ICTAI， 	ICANN， 	ICONIP， IJCNN， 	WWW， MICCAI， ICIP， ICIC
 
-# January $${\color{red}Red}$$
+# $${\color{lightblue}January}$$
 ### IJCAI - CoreRanking: A* and CCFRanking: A (Artificial Intelligence)
 ##### Paper Submission Deadline - January.
 ##### Rebuttal Period - March.
