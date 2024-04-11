@@ -196,8 +196,8 @@ The summary outlines the details of AI conferences, including their names, deadl
 ##### Rebuttal Period - January.
 ##### Final Decision - March.
 
-#### ICME - CoreRanking: A && CCFRanking: B (Multimedia and Multimodal)
-##### Paper Submission Deadline - December.
-##### Rebuttal Period - ~.
-##### Final Decision - March.
+### ICME - CoreRanking: A && CCFRanking: B (Multimedia and Multimodal)
+###### Paper Submission Deadline - December.
+###### Rebuttal Period - ~.
+###### Final Decision - March.
 
