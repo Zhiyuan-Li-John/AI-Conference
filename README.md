@@ -145,6 +145,12 @@ The summary outlines the details of AI conferences, including their names, deadl
 ###### Rebuttal Period - ~.
 ###### Final Decision - July.
 
+### DICTA - CoreRanking: C && CCFRanking: ~ (Artificial Intelligence)
+###### Paper Submission Deadline - July.
+###### Rebuttal Period - ~.
+###### Final Decision - August.
+
+
 
  
 # $${\color{lightblue}August}$$
